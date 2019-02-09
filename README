@@ -1,0 +1,6 @@
+# install gfortran (with conda)
+conda install gfortran_linux-64
+
+# compile and run
+$FC hello.f
+./a.out
