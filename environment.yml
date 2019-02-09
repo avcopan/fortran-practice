@@ -1,0 +1,8 @@
+name: fort-env
+
+channels:
+    - intel
+
+dependencies:
+    - gfortran_linux-64
+    - tcl
